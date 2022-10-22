@@ -2,6 +2,8 @@
 ## Repository
 https://github.com/JanaClaessens/DEV5-LAB2
 
+https://v9vrn1.codesandbox.io/
+
 ## Recente JS feature
 String padding zorgt ervoor dat je op een efficiënte manier
 getallen of tekst vooraan (padStart) of achteraan (padEnd) kan toevoegen aan reeds ingegeven getallen of tekst.
